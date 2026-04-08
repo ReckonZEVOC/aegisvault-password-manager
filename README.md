@@ -1,0 +1,1 @@
+# aegisvault-password-manager
